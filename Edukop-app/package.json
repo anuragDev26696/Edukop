@@ -73,7 +73,7 @@
     "@angular-eslint/eslint-plugin-template": "~13.0.1",
     "@angular-eslint/template-parser": "~13.0.1",
     "@angular/cli": "~21.1.2",
-    "@angular/compiler": "~19.2.20",
+    "@angular/compiler": "~20.3.25",
     "@angular/compiler-cli": "~13.2.2",
     "@angular/language-service": "~13.2.2",
     "@capacitor/cli": "8.0.2",
